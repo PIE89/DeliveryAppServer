@@ -4,7 +4,7 @@
       "id": 1,
       "product": "pizzas",
       "name": "4 сезона",
-      "photo": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?t=st=1716214830~exp=1716218430~hmac=d1f1d5454cc974f4df350ee3a75de91083e08fa745e786cdbb509900a2793b91&w=1800",
+      "photo": "https://parkandpizza.ru/wp-content/uploads/2019/04/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5-%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%B02.png",
       "rating": 5,
       "ingredients": [
         "Бекон",
@@ -44,7 +44,7 @@
       "id": 2,
       "product": "pizzas",
       "name": "EASY PEASY чикен а-ля хрен",
-      "photo": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?t=st=1716214830~exp=1716218430~hmac=d1f1d5454cc974f4df350ee3a75de91083e08fa745e786cdbb509900a2793b91&w=1800",
+      "photo": "https://lavpizza.ru/wp-content/uploads/2021/05/kurica.png",
       "ingredients": ["Курица", "Лук", "Соус Карбонара"],
       "rating": 5,
       "sizes": [
@@ -76,7 +76,7 @@
       "id": 3,
       "product": "pizzas",
       "name": "Чикен Сладкий Чили",
-      "photo": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?t=st=1716214830~exp=1716218430~hmac=d1f1d5454cc974f4df350ee3a75de91083e08fa745e786cdbb509900a2793b91&w=1800",
+      "photo": "https://edimdoma.ru/data/recipes/0009/8815/98815-ed4_wide.jpg?1628786624",
       "rating": 3,
       "ingredients": [
         "Курица",
@@ -114,7 +114,7 @@
       "id": 4,
       "product": "pizzas",
       "name": "EASY PEASY огуречный расколбас",
-      "photo": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?t=st=1716214830~exp=1716218430~hmac=d1f1d5454cc974f4df350ee3a75de91083e08fa745e786cdbb509900a2793b91&w=1800",
+      "photo": "https://images.gastronom.ru/6nVMfIY0Ou7uMcOuXuFnx0kEcBx9YxL4mmzIjzP02-Q/pr:recipe-cover-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzLzNhYzljMzI1LWVmNmQtNDJkZi05NjJlLTdiN2E1MjNhNzc5Mi5qcGc",
       "ingredients": ["Курица", "Лук", "Перец Халапено"],
       "rating": 5,
       "sizes": [
@@ -145,9 +145,9 @@
     {
       "id": 5,
       "product": "pizzas",
-      "name": "EASY PEASY огуречный расколбас",
-      "photo": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?t=st=1716214830~exp=1716218430~hmac=d1f1d5454cc974f4df350ee3a75de91083e08fa745e786cdbb509900a2793b91&w=1800",
-      "ingredients": ["Курица", "Лук", "Перец Халапено"],
+      "name": "EASY PEASY пепперони",
+      "photo": "https://static.pizzasushiwok.ru/images/menu_new/6-1300.jpg",
+      "ingredients": ["Томатный соус", "Моцарелла", "Пепперони"],
       "rating": 5,
       "sizes": [
         {
@@ -177,9 +177,9 @@
     {
       "id": 6,
       "product": "pizzas",
-      "name": "EASY PEASY огуречный расколбас",
-      "photo": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?t=st=1716214830~exp=1716218430~hmac=d1f1d5454cc974f4df350ee3a75de91083e08fa745e786cdbb509900a2793b91&w=1800",
-      "ingredients": ["Курица", "Лук", "Перец Халапено"],
+      "name": "EASY PEASY гавайская",
+      "photo": "https://ist.say7.info/img0002/23/223_0157t52_9606_1024.jpg",
+      "ingredients": ["Курица", "Лук", "Перец Халапено", "Ананас"],
       "rating": 5,
       "sizes": [
         {
@@ -209,9 +209,16 @@
     {
       "id": 7,
       "product": "pizzas",
-      "name": "EASY PEASY огуречный расколбас",
-      "photo": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?t=st=1716214830~exp=1716218430~hmac=d1f1d5454cc974f4df350ee3a75de91083e08fa745e786cdbb509900a2793b91&w=1800",
-      "ingredients": ["Курица", "Лук", "Перец Халапено"],
+      "name": "EASY PEASY Сырная",
+      "photo": "https://momentopizza.ru/upload/shop_4/2/1/6/item_216/item_216.jpg",
+      "ingredients": [
+        "Сыр моцарелла",
+        "сыр слугуни",
+        "сливочный соус",
+        "яйцо куриное",
+        "орегано",
+        "чесночное масло"
+      ],
       "rating": 5,
       "sizes": [
         {
@@ -241,9 +248,19 @@
     {
       "id": 8,
       "product": "pizzas",
-      "name": "EASY PEASY огуречный расколбас",
-      "photo": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?t=st=1716214830~exp=1716218430~hmac=d1f1d5454cc974f4df350ee3a75de91083e08fa745e786cdbb509900a2793b91&w=1800",
-      "ingredients": ["Курица", "Лук", "Перец Халапено"],
+      "name": "EASY PEASY Деревенская",
+      "photo": "https://momentopizza.ru/upload/shop_4/2/2/2/item_222/item_222.jpg",
+      "ingredients": [
+        "Сыр моцарелла",
+        "сливочный соус",
+        "ветчина",
+        "копченая курица",
+        "грибы",
+        "помидоры",
+        "орегано",
+        "укроп",
+        "чесночное масло"
+      ],
       "rating": 5,
       "sizes": [
         {
@@ -273,9 +290,20 @@
     {
       "id": 9,
       "product": "pizzas",
-      "name": "EASY PEASY огуречный расколбас",
-      "photo": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?t=st=1716214830~exp=1716218430~hmac=d1f1d5454cc974f4df350ee3a75de91083e08fa745e786cdbb509900a2793b91&w=1800",
-      "ingredients": ["Курица", "Лук", "Перец Халапено"],
+      "name": "EASY PEASY Вегетарианская",
+      "photo": "https://momentopizza.ru/upload/shop_4/2/2/1/item_221/item_221.jpg",
+      "ingredients": [
+        "Сыр моцарелла",
+        "пицца-соус",
+        "брокколи",
+        "грибы",
+        "помидоры",
+        "болгарский перец",
+        "лук",
+        "маслины",
+        "орегано",
+        "чесночное масло"
+      ],
       "rating": 5,
       "sizes": [
         {
@@ -305,9 +333,19 @@
     {
       "id": 10,
       "product": "pizzas",
-      "name": "EASY PEASY огуречный расколбас",
-      "photo": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?t=st=1716214830~exp=1716218430~hmac=d1f1d5454cc974f4df350ee3a75de91083e08fa745e786cdbb509900a2793b91&w=1800",
-      "ingredients": ["Курица", "Лук", "Перец Халапено"],
+      "name": "EASY PEASY Острая",
+      "photo": "https://momentopizza.ru/upload/shop_4/2/1/7/item_217/item_217.jpg",
+      "ingredients": [
+        "Сыр моцарелла",
+        "пицца-соус",
+        "острый соус",
+        "полукопченая колбаса",
+        "ветчина",
+        "помидоры",
+        "лук белый",
+        "орегано",
+        "чесночное масло"
+      ],
       "rating": 5,
       "sizes": [
         {
@@ -341,7 +379,7 @@
       "product": "rolls",
       "rating": 1,
       "name": "Филадельфия",
-      "photo": "https://img.freepik.com/free-photo/sushi-rolls-with-cucumber-served-with-wasabi-ginger_141793-993.jpg?t=st=1716215169~exp=1716218769~hmac=af07d1652e44e6a48bfef4149de3d3f00a3a6ae99e541c520e16ff3ceeea5000&w=996",
+      "photo": "https://lh7-us.googleusercontent.com/DuQJbagl1QUMUsvB3JpjehqGb_lOrC2LvRiuOcrH78MfjjUn1-72t9Catjbh-0Y3He-tHLP7qSpwogjHLHUsAStvq0q4uCH2JXb0BgEiySfUbhRZReqbngdd0_pJYWFXDYOdB4uEEVqRq2wxn_ZO7bo",
       "pieces": [
         {
           "name": "5 шт",
@@ -359,7 +397,7 @@
       "product": "rolls",
       "rating": 3,
       "name": "Унаги",
-      "photo": "https://img.freepik.com/free-photo/sushi-rolls-with-cucumber-served-with-wasabi-ginger_141793-993.jpg?t=st=1716215169~exp=1716218769~hmac=af07d1652e44e6a48bfef4149de3d3f00a3a6ae99e541c520e16ff3ceeea5000&w=996",
+      "photo": "https://lh7-us.googleusercontent.com/DEf7GS3JGlnBpMWtpVCz4iCpBk0_v1Nae6jq59uKP5PhJokLZUC7RDH61FlGsvNYRlmF05BFkXnw3YIhRAdC_WG3myRzv0vUY7eP-lFuJfsEcSz9QFJ7Oy_lWkWc5opMMlPO4YzaMaN7JCM8d_E3GUs",
       "pieces": [
         {
           "name": "5 шт",
@@ -377,7 +415,7 @@
       "product": "rolls",
       "name": "Чики-Пики",
       "rating": 4,
-      "photo": "https://img.freepik.com/free-photo/sushi-rolls-with-cucumber-served-with-wasabi-ginger_141793-993.jpg?t=st=1716215169~exp=1716218769~hmac=af07d1652e44e6a48bfef4149de3d3f00a3a6ae99e541c520e16ff3ceeea5000&w=996",
+      "photo": "https://lh7-us.googleusercontent.com/n-J8mjDzipBO4-UHBxn__cmdKWJOHUaaHh__mQSiUfJPoohOYrdm624wIlLJHkjShTmY4zZBpYVQtiqjkFxqUjGkamUwOq0icfmtd3PhxF1Y6kuvpR-gE_PlgBBoDXodZoiotMM3lCS-Go1L9UTSXjg",
       "pieces": [
         {
           "name": "5 шт",
@@ -395,7 +433,7 @@
       "product": "rolls",
       "name": "Маскарад",
       "rating": 2,
-      "photo": "https://img.freepik.com/free-photo/sushi-rolls-with-cucumber-served-with-wasabi-ginger_141793-993.jpg?t=st=1716215169~exp=1716218769~hmac=af07d1652e44e6a48bfef4149de3d3f00a3a6ae99e541c520e16ff3ceeea5000&w=996",
+      "photo": "https://mrcheee.ru/d/roll-s-krabom.png",
       "pieces": [
         {
           "name": "5 шт",
@@ -411,9 +449,9 @@
     {
       "id": 5,
       "product": "rolls",
-      "name": "СЭМ",
+      "name": "Запеченный краб",
       "rating": 5,
-      "photo": "https://img.freepik.com/free-photo/sushi-rolls-with-cucumber-served-with-wasabi-ginger_141793-993.jpg?t=st=1716215169~exp=1716218769~hmac=af07d1652e44e6a48bfef4149de3d3f00a3a6ae99e541c520e16ff3ceeea5000&w=996",
+      "photo": "https://amigos51.ru/nuber/images/shop/product/89932df4-71d0-4bd4-aab0-d3a3607e5e72/907e787a-fad8-4204-b16f-51d8b7724b15.jpg",
       "pieces": [
         {
           "name": "5 шт",
@@ -424,14 +462,14 @@
           "price": 400
         }
       ],
-      "ingredients": ["Имбирь", "маслины", "нори", "васаби"]
+      "ingredients": ["Крабовое мясо", "огурец", "сыр сливочный", "икра масаго"]
     },
     {
       "id": 6,
       "product": "rolls",
-      "name": "СЭМ",
+      "name": "Запечённый ролл с гребешком",
       "rating": 4,
-      "photo": "https://img.freepik.com/free-photo/sushi-rolls-with-cucumber-served-with-wasabi-ginger_141793-993.jpg?t=st=1716215169~exp=1716218769~hmac=af07d1652e44e6a48bfef4149de3d3f00a3a6ae99e541c520e16ff3ceeea5000&w=996",
+      "photo": "https://tokyo-bar.ru/upload/iblock/6b8/4i7r2x22jna0utj9bjcy3vpvzf3skbt3/zapechyonnyj_roll_s_grebeshkom.jpg",
       "pieces": [
         {
           "name": "5 шт",
@@ -442,14 +480,14 @@
           "price": 400
         }
       ],
-      "ingredients": ["Имбирь", "маслины", "нори", "васаби"]
+      "ingredients": ["Имбирь", "филе гребешка", "темпура", "сливочный сыр"]
     },
     {
       "id": 7,
       "product": "rolls",
-      "name": "СЭМ",
+      "name": "Ролл Темпура",
       "rating": 2,
-      "photo": "https://img.freepik.com/free-photo/sushi-rolls-with-cucumber-served-with-wasabi-ginger_141793-993.jpg?t=st=1716215169~exp=1716218769~hmac=af07d1652e44e6a48bfef4149de3d3f00a3a6ae99e541c520e16ff3ceeea5000&w=996",
+      "photo": "https://static.1000.menu/res/640/img/content-v2/22/c1/23175/roll-tempura-v-domashnix-usloviyax-sushi_1633842566_23_max.jpg",
       "pieces": [
         {
           "name": "5 шт",
@@ -460,14 +498,14 @@
           "price": 400
         }
       ],
-      "ingredients": ["Имбирь", "маслины", "нори", "васаби"]
+      "ingredients": ["Лосось", "темпура", "огурец", "рис"]
     },
     {
       "id": 8,
       "product": "rolls",
-      "name": "СЭМ",
+      "name": "Острый Ролл с лососем и крабом",
       "rating": 2,
-      "photo": "https://img.freepik.com/free-photo/sushi-rolls-with-cucumber-served-with-wasabi-ginger_141793-993.jpg?t=st=1716215169~exp=1716218769~hmac=af07d1652e44e6a48bfef4149de3d3f00a3a6ae99e541c520e16ff3ceeea5000&w=996",
+      "photo": "https://cdn.tokyo-city.ru/goods/800_520_roll_krab_664365f654a74.jpg",
       "pieces": [
         {
           "name": "5 шт",
@@ -478,14 +516,14 @@
           "price": 400
         }
       ],
-      "ingredients": ["Имбирь", "маслины", "нори", "васаби"]
+      "ingredients": ["Лосось", "снежный краб", "огурец", "майонез", "соусы"]
     },
     {
       "id": 9,
       "product": "rolls",
-      "name": "СЭМ",
+      "name": "Ролл с угрём и креветками",
       "rating": 2,
-      "photo": "https://img.freepik.com/free-photo/sushi-rolls-with-cucumber-served-with-wasabi-ginger_141793-993.jpg?t=st=1716215169~exp=1716218769~hmac=af07d1652e44e6a48bfef4149de3d3f00a3a6ae99e541c520e16ff3ceeea5000&w=996",
+      "photo": "https://cdn.tokyo-city.ru/goods/800_520_Roll_s_ugrem_i_krevetkami_663bcf5b97d33.jpg",
       "pieces": [
         {
           "name": "5 шт",
@@ -496,14 +534,14 @@
           "price": 400
         }
       ],
-      "ingredients": ["Имбирь", "маслины", "нори", "васаби"]
+      "ingredients": ["Угорь", "креветки", "сливочный сыр", "салат айсберг"]
     },
     {
       "id": 10,
       "product": "rolls",
-      "name": "СЭМ",
+      "name": "Угорь темпура",
       "rating": 2,
-      "photo": "https://img.freepik.com/free-photo/sushi-rolls-with-cucumber-served-with-wasabi-ginger_141793-993.jpg?t=st=1716215169~exp=1716218769~hmac=af07d1652e44e6a48bfef4149de3d3f00a3a6ae99e541c520e16ff3ceeea5000&w=996",
+      "photo": "https://cdn.tokyo-city.ru/goods/_0005_ugor_tempura.jpg",
       "pieces": [
         {
           "name": "5 шт",
@@ -514,7 +552,7 @@
           "price": 400
         }
       ],
-      "ingredients": ["Имбирь", "маслины", "нори", "васаби"]
+      "ingredients": ["Угорь", "кларий", "авокадо", "рис", "водоросли нори"]
     }
   ],
   "other": [
@@ -532,17 +570,17 @@
       "rating": 5,
       "product": "other",
       "name": "Sprite",
-      "photo": "https://fikiwiki.com/uploads/posts/2022-02/1644920268_3-fikiwiki-com-p-krasivie-kartinki-koka-kola-3.jpg",
-      "price": 30,
-      "description": "Лимонад безалкогольный"
+      "photo": "https://www.coca-cola.com/content/dam/onexp/by/be/brands/sprite/REN2304-00590_BIC_SP_NRPET_500ml__FR_D_Closed_54491069_803.png",
+      "price": 120,
+      "description": "Содовая безалкогольная газированная напиток"
     },
     {
       "id": 3,
       "rating": 2,
       "product": "other",
-      "name": "Sprite",
-      "photo": "https://fikiwiki.com/uploads/posts/2022-02/1644920268_3-fikiwiki-com-p-krasivie-kartinki-koka-kola-3.jpg",
-      "price": 90,
+      "name": "Fanta",
+      "photo": "https://cheremiskin.ru/upload/iblock/3c4/3c4ff80124f3d3115207768e23f5e870.png",
+      "price": 120,
       "description": "Содовая безалкогольная газированная напиток"
     },
     {
@@ -550,8 +588,8 @@
       "rating": 4,
       "product": "other",
       "name": "Pepsi",
-      "photo": "https://fikiwiki.com/uploads/posts/2022-02/1644920268_3-fikiwiki-com-p-krasivie-kartinki-koka-kola-3.jpg",
-      "price": 90,
+      "photo": "https://cdn-img.perekrestok.ru/i/800x800-fit/xdelivery/files/b6/af/56d742fcaee154a180125cb85648.jpg",
+      "price": 120,
       "description": "Содовая безалкогольная газированная напиток"
     },
     {
@@ -559,54 +597,54 @@
       "rating": 3,
       "product": "other",
       "name": "Чай",
-      "photo": "https://fikiwiki.com/uploads/posts/2022-02/1644920268_3-fikiwiki-com-p-krasivie-kartinki-koka-kola-3.jpg",
+      "photo": "https://e2.edimdoma.ru/data/ingredients/0000/1200/1200-ed4_wide.jpg?1515760357",
       "price": 60,
-      "description": "Черный чай 'Нури'"
+      "description": "Черный черный"
     },
     {
       "id": 6,
       "rating": 2,
       "product": "other",
       "name": "Чай",
-      "photo": "https://fikiwiki.com/uploads/posts/2022-02/1644920268_3-fikiwiki-com-p-krasivie-kartinki-koka-kola-3.jpg",
+      "photo": "https://e2.edimdoma.ru/data/ingredients/0000/1200/1200-ed4_wide.jpg?1515760357",
       "price": 60,
-      "description": "Черный чай 'Нури'"
+      "description": "Черный чай черный (бергамотом)"
     },
     {
       "id": 7,
       "rating": 8,
       "product": "other",
       "name": "Чай",
-      "photo": "https://fikiwiki.com/uploads/posts/2022-02/1644920268_3-fikiwiki-com-p-krasivie-kartinki-koka-kola-3.jpg",
+      "photo": "https://teashop.spb.ru/image/cache/data/tk/blackteawithadditives1/tea-with-mint/tea-with-mint-600x600.jpg",
       "price": 60,
-      "description": "Черный чай 'Нури'"
+      "description": "Черный чай черный с мятой"
     },
     {
       "id": 8,
       "rating": 1,
       "product": "other",
       "name": "Чай",
-      "photo": "https://fikiwiki.com/uploads/posts/2022-02/1644920268_3-fikiwiki-com-p-krasivie-kartinki-koka-kola-3.jpg",
+      "photo": "https://101tea.ru/upload/ammina.optimizer/jpg-webp/q70/upload/iblock/3a4/3ar53lodc642zp3ro70s778vptundi2u.webp",
       "price": 60,
-      "description": "Черный чай 'Нури'"
+      "description": "Зеленый чай"
     },
     {
       "id": 9,
       "rating": 3,
       "product": "other",
       "name": "Чай",
-      "photo": "https://fikiwiki.com/uploads/posts/2022-02/1644920268_3-fikiwiki-com-p-krasivie-kartinki-koka-kola-3.jpg",
+      "photo": "https://cdnn21.img.ria.ru/images/07e5/03/03/1599798800_0:95:3072:1823_1920x0_80_0_0_4ae9f8f8f42e9798201ec86aae4b0fda.jpg",
       "price": 60,
-      "description": "Черный чай 'Нури'"
+      "description": "Иван Чай"
     },
     {
       "id": 10,
       "rating": 3,
       "product": "other",
       "name": "Чай",
-      "photo": "https://fikiwiki.com/uploads/posts/2022-02/1644920268_3-fikiwiki-com-p-krasivie-kartinki-koka-kola-3.jpg",
+      "photo": "https://tea-vip.ru/wp-content/uploads/2021/10/VK-26997.png",
       "price": 60,
-      "description": "Черный чай 'Нури'"
+      "description": "Чай Молочный Улун"
     }
   ]
 }
